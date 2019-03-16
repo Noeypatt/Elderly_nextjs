@@ -10935,7 +10935,7 @@ function (_App) {
           lineNumber: 20
         },
         __self: this
-      }, "SLN"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("link", {
+      }, "ElderlyDB"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("link", {
         rel: "stylesheet",
         href: "https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css",
         crossorigin: "anonymous",
