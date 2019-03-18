@@ -10845,16 +10845,16 @@ var _jsxFileName = "C:\\Users\\Noey\\Documents\\Elderly\\pages\\Styles.js";
 
 var Styles = function Styles() {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    className: "jsx-1334037994",
+    className: "jsx-2089288586",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 2
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "1334037994",
+    id: "2089288586",
     __self: this
-  }, "#x{padding:10px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcTm9leVxcRG9jdW1lbnRzXFxFbGRlcmx5XFxwYWdlc1xcU3R5bGVzLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUU0QixBQVNzQyxhQUNqQiIsImZpbGUiOiJDOlxcVXNlcnNcXE5vZXlcXERvY3VtZW50c1xcRWxkZXJseVxccGFnZXNcXFN0eWxlcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IFN0eWxlcyA9ICgpID0+IHtcclxuICAgIHJldHVybiggPGRpdj5cclxuICAgICAgICAgPHN0eWxlIGdsb2JhbCBqc3g+e2BcclxuICAgICAgICAgICAgICAgICAgICBib2R5IHtcclxuICAgICAgICAgICAgICAgICAgICAgICAgXHJcbiAgICAgICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgICAgIGJ1dHRvbiBiMSB7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIFxyXG4gICAgICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgICAgICAjeCB7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IDEwcHg7XHJcbiAgICAgICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICBgfTwvc3R5bGU+XHJcbiAgICAgPC9kaXY+XHJcbiAgICApfVxyXG4gZXhwb3J0IGRlZmF1bHQgU3R5bGVzOyJdfQ== */\n/*@ sourceURL=C:\\Users\\Noey\\Documents\\Elderly\\pages\\Styles.js */"));
+  }, "#bg{-webkit-flex-Grow::1;-ms-flex-Grow::1;flex-Grow::1;padding:2px;margin-left:0%;margin-right :0%;margin-top:0%;background-color:#0693e3;}#frontbar{color:white;margin-top:10%;}#frontbarL{color:white;margin-top:5%;text-align:right;}button bh{text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcTm9leVxcRG9jdW1lbnRzXFxFbGRlcmx5XFxwYWdlc1xcU3R5bGVzLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUUyQixBQUd1QyxBQVVILEFBTUEsQUFNTyxBQUdMLFlBZEUsQUFNRCxNQU1sQixRQUxxQixDQU5yQixnQkFRQSxRQW5CZ0IsWUFDRyxlQUNFLGlCQUNILGNBQ1UseUJBRTVCIiwiZmlsZSI6IkM6XFxVc2Vyc1xcTm9leVxcRG9jdW1lbnRzXFxFbGRlcmx5XFxwYWdlc1xcU3R5bGVzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgU3R5bGVzID0gKCkgPT4ge1xyXG4gICAgcmV0dXJuICg8ZGl2PlxyXG4gICAgICAgIDxzdHlsZSBnbG9iYWwganN4PntgXHJcbiAgICAgICAgICAgICAgICAgICAgI2JnIHtcclxuICAgICAgICAgICAgICAgICAgICAgICAgZmxleC1Hcm93OiA6IDE7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IDJweDtcclxuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWxlZnQ6IDAlO1xyXG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tcmlnaHQgOiAwJTtcclxuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLXRvcDogMCU7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IzA2OTNlMztcclxuICAgICAgICAgICAgICAgICAgICAgICAgXHJcbiAgICAgICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgICAgICNmcm9udGJhclxyXG4gICAgICAgICAgICAgICAgICAgIHtcclxuICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6d2hpdGU7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDEwJTtcclxuICAgICAgICAgICAgICAgICAgICB9XHJcblxyXG4gICAgICAgICAgICAgICAgICAgICNmcm9udGJhckxcclxuICAgICAgICAgICAgICAgICAgICB7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOndoaXRlO1xyXG4gICAgICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiA1JTtcclxuICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogcmlnaHQ7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIFxyXG4gICAgICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgICAgICBidXR0b24gYmgge1xyXG4gICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7ICAgXHJcbiAgICAgICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgICAgICN4IHtcclxuICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luLWxlZnQ6IDtcclxuICAgICAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgIGB9PC9zdHlsZT5cclxuICAgIDwvZGl2PlxyXG4gICAgKVxyXG59XHJcbmV4cG9ydCBkZWZhdWx0IFN0eWxlczsiXX0= */\n/*@ sourceURL=C:\\Users\\Noey\\Documents\\Elderly\\pages\\Styles.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Styles);
@@ -10938,10 +10938,26 @@ function (_App) {
       }, "ElderlyDB"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("link", {
         rel: "stylesheet",
         href: "https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css",
-        crossorigin: "anonymous",
+        crossOrigin: "anonymous",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 21
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("link", {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css?family=Roboto:300,400,500",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("link", {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/icon?family=Material+Icons",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 23
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("meta", {
@@ -10949,25 +10965,25 @@ function (_App) {
         content: "initial-scale=1.0, width=device-width",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 22
+          lineNumber: 24
         },
         __self: this
       })), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(next_app__WEBPACK_IMPORTED_MODULE_8__["Container"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24
+          lineNumber: 26
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(Component, Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_2__["default"])({}, pageProps, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 27
         },
         __self: this
       }))), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_Styles__WEBPACK_IMPORTED_MODULE_11__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27
+          lineNumber: 29
         },
         __self: this
       }));

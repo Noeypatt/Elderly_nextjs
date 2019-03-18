@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{riMK:function(n,w,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Styles",function(){var n=i("kpGK");return{page:n.default||n}}])}},[["riMK",1,0]]]);
