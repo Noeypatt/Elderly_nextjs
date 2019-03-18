@@ -16,12 +16,123 @@ var _jsxFileName = "C:\\Users\\Noey\\Documents\\Elderly\\components\\Menu\\Conte
 
 var Home = function Home() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "container-fluid",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
-  });
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "row",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "col-4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "list-group",
+    id: "list-tab",
+    role: "tablist",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    class: "list-group-item list-group-item-action active",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Home"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    class: "list-group-item list-group-item-action",
+    id: "list-profile-list",
+    "data-toggle": "list",
+    href: "#profile",
+    role: "tab",
+    "aria-controls": "profile",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }, "Profile"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    class: "list-group-item list-group-item-action",
+    id: "list-messages-list",
+    "data-toggle": "list",
+    href: "#messages",
+    role: "tab",
+    "aria-controls": "messages",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, "Messages"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    class: "list-group-item list-group-item-action",
+    id: "list-settings-list",
+    "data-toggle": "list",
+    href: "#settings",
+    role: "tab",
+    "aria-controls": "settings",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, "Settings"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "col-8",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "tab-content",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "tab-pane active",
+    id: "profile",
+    role: "tabpanel",
+    "aria-labelledby": "list-messages-list",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "tab-pane active",
+    id: "messages",
+    role: "tabpanel",
+    "aria-labelledby": "list-messages-list",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    class: "tab-pane active",
+    id: "settings",
+    role: "tabpanel",
+    "aria-labelledby": "list-messages-list",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  })))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
@@ -96,7 +207,7 @@ var Header = function Header() {
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    class: "col-lg-8",
+    class: "col-lg-7",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
@@ -124,7 +235,7 @@ var Header = function Header() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
-    id: "frontbar",
+    id: "barL",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
@@ -139,7 +250,7 @@ var Header = function Header() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
-    id: "frontbar",
+    id: "barL",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
@@ -154,66 +265,49 @@ var Header = function Header() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
-    id: "frontbar",
+    id: "barL",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
     },
     __self: this
   }, "\u0E15\u0E34\u0E14\u0E15\u0E48\u0E2D\u0E40\u0E23\u0E32"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    class: "col-lg-2",
+    class: "col-lg-3",
+    id: "barR",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 25
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
+    class: "form-inline",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
-    id: "frontbarL",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
+    class: "form-control mr-sm-2",
+    type: "search",
+    placeholder: "Search",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28
     },
     __self: this
-  }, "\u0E2A\u0E32\u0E22\u0E14\u0E48\u0E27\u0E19 \u0E42\u0E17\u0E23. 1300"))))));
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+    class: "btn btn-outline-light my-2 my-sm-0",
+    type: "submit",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }, "Search"))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
-/* <Grid container spacing={24}>
-                <Grid item xs={2}>
-                    <div >
-                        <Tooltip title="Home" placement="right">
-                            <Link href="/">
-                                <img src={home} alt="Elderly" width="50" /></Link>
-                        </Tooltip>
-                    </div>
-                </Grid>
-
-                <Grid item xs={8}>
-                    <div >
-                        <ul class="nav">
-                                <a class="nav-link active" ><h5 id="frontbar" className="fornt">หน่วยงาน</h5></a>
-                                <a class="nav-link active" ><h5 id="frontbar" className="fornt">เรื่องน่ารู้</h5></a>
-                                <a class="nav-link active" ><h5 id="frontbar" className="fornt">ติดต่อเรา</h5></a>
-
-                        </ul>
-                    </div>
-                </Grid>
-
-                <Grid item xs={2}>
-                    <div>
-                        <h5 id="frontbarL">สายด่วน โทร. 1300</h5>
-                    </div>
-                </Grid>
-
-            </Grid>
-
-            */
+/*<h5 id="frontbarL">สายด่วน โทร. 1300</h5>*/
 
 /***/ }),
 
